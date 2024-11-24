@@ -1,0 +1,8 @@
+C:\Users\Cristobal Rodas\source\repos\SistemaBiblioteca\cacheUsuario\bin\Debug\netstandard1.4\cacheUsuario.deps.json
+C:\Users\Cristobal Rodas\source\repos\SistemaBiblioteca\cacheUsuario\bin\Debug\netstandard1.4\cacheUsuario.dll
+C:\Users\Cristobal Rodas\source\repos\SistemaBiblioteca\cacheUsuario\bin\Debug\netstandard1.4\cacheUsuario.pdb
+C:\Users\Cristobal Rodas\source\repos\SistemaBiblioteca\cacheUsuario\obj\Debug\netstandard1.4\cacheUsuario.csprojAssemblyReference.cache
+C:\Users\Cristobal Rodas\source\repos\SistemaBiblioteca\cacheUsuario\obj\Debug\netstandard1.4\cacheUsuario.csproj.CoreCompileInputs.cache
+C:\Users\Cristobal Rodas\source\repos\SistemaBiblioteca\cacheUsuario\obj\Debug\netstandard1.4\cacheUsuario.AssemblyInfo.cs
+C:\Users\Cristobal Rodas\source\repos\SistemaBiblioteca\cacheUsuario\obj\Debug\netstandard1.4\cacheUsuario.dll
+C:\Users\Cristobal Rodas\source\repos\SistemaBiblioteca\cacheUsuario\obj\Debug\netstandard1.4\cacheUsuario.pdb

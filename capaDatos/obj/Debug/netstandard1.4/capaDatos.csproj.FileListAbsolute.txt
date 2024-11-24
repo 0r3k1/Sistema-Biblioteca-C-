@@ -1,0 +1,11 @@
+C:\Users\Cristobal Rodas\source\repos\SistemaBiblioteca\capaDatos\bin\Debug\netstandard1.4\capaDatos.deps.json
+C:\Users\Cristobal Rodas\source\repos\SistemaBiblioteca\capaDatos\bin\Debug\netstandard1.4\capaDatos.dll
+C:\Users\Cristobal Rodas\source\repos\SistemaBiblioteca\capaDatos\obj\Debug\netstandard1.4\capaDatos.csprojAssemblyReference.cache
+C:\Users\Cristobal Rodas\source\repos\SistemaBiblioteca\capaDatos\obj\Debug\netstandard1.4\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Cristobal Rodas\source\repos\SistemaBiblioteca\capaDatos\obj\Debug\netstandard1.4\capaDatos.AssemblyInfo.cs
+C:\Users\Cristobal Rodas\source\repos\SistemaBiblioteca\capaDatos\bin\Debug\netstandard1.4\capaDatos.pdb
+C:\Users\Cristobal Rodas\source\repos\SistemaBiblioteca\capaDatos\obj\Debug\netstandard1.4\capaDatos.dll
+C:\Users\Cristobal Rodas\source\repos\SistemaBiblioteca\capaDatos\obj\Debug\netstandard1.4\capaDatos.pdb
+C:\Users\Cristobal Rodas\source\repos\SistemaBiblioteca\capaDatos\obj\Debug\netstandard1.4\capaDatos.csproj.CopyComplete
+C:\Users\Cristobal Rodas\source\repos\SistemaBiblioteca\capaDatos\bin\Debug\netstandard1.4\Cache.dll
+C:\Users\Cristobal Rodas\source\repos\SistemaBiblioteca\capaDatos\bin\Debug\netstandard1.4\Cache.pdb
